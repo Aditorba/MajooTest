@@ -1,0 +1,4 @@
+database:
+  db: majoo:majooTest@(localhost:3306)/majoo?charset=utf8mb4&parseTime=True&loc=Local
+secret:
+  tokenGenerate: MajooTest123*!
